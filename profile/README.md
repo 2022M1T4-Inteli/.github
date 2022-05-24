@@ -1,7 +1,7 @@
 # 🙋‍ 2022.1 - Módulo Game - Turma 4 - Inteli
 
 ## 🔍 O problema:
-Diversos cursos de Tecnologia têm características semelhantes, porém formam perfis profissionais diferentes. A falta de clareza nas semelhanças e diferenças ocasiona muitas dúvidas na escolha adequada do curso.
+Diversos cursos de tecnologia têm características semelhantes, porém formam perfis profissionais diferentes. A falta de clareza nas semelhanças e diferenças ocasiona muitas dúvidas na escolha adequada do curso.
 
 ## 🎯 O objetivo:
 Através de um game, gerar entendimento sobre os cursos de Tecnologia e suas possíveis carreiras, direcionando a uma escolha assertiva de acordo com cada perfil.
